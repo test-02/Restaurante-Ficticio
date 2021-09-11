@@ -352,7 +352,8 @@ footer .copyright {
 
 @media screen and (max-width: 400px) {
 	header nav {
-		display:none !important; /*Quitar el nav completo*/
+		visibility: hidden;
+		display:none !important;
 	}
 	
 	.main .acerca-de article h3 {
