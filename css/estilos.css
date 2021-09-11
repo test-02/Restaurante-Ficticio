@@ -351,6 +351,10 @@ footer .copyright {
 
 
 @media screen and (max-width: 400px) {
+	header nav {
+		display:none !important; /*Quitar el nav completo*/
+	}
+	
 	.main .acerca-de article h3 {
 		font-size: 34px;
 		margin-bottom: 10px;
