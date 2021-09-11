@@ -350,7 +350,7 @@ footer .copyright {
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
 	header nav {
 		visibility: hidden;
 		display:none !important;
